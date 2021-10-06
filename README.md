@@ -19,4 +19,4 @@ Some example data sets for exploration are provided within this GitHub repositor
 - [US Government Open Data](https://www.data.gov/) 
 - [World Bank Open Data](https://data.worldbank.org/)
 
-Click here for [workshop slides](https://docs.google.com/presentation/d/1dTCnD13JWkt_6D9vlXWkpaWSghWSYlhfx6_lB9AzSNw/edit?usp=sharing) (or download them from the repository).
+Click here for [workshop slides](https://docs.google.com/presentation/d/1jGBqB8HZQFHz_cjbY6rIFGNDAKO3L_uQ44A6pIxeKa0/edit?usp=sharing) (or download them from the repository).
